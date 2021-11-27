@@ -1,11 +1,11 @@
 # Machine-Learning-Exercises
-Solve ML Exercises including this topics: 
-1 - Linear Regression (Univarient and Multivarient)  
-2 - one hot encoding
-3 - Logistic Regression (Binary and Multi classes)
-4 - Decision Tree
-5 - SVM
-6 - RandomForest 
-7 - Kfold  
-8 - Kmeans 
-9 - Naive bayse
+Solve ML Exercises including this topics: <br>
+1 - Linear Regression (Univarient and Multivarient)  <br>
+2 - one hot encoding <br>
+3 - Logistic Regression (Binary and Multi classes) <br>
+4 - Decision Tree <br>
+5 - SVM <br>
+6 - RandomForest <br>
+7 - Kfold  <br>
+8 - Kmeans <br>
+9 - Naive bayse <br>
