@@ -10,4 +10,5 @@ Solve ML Exercises including this topics: <br><br>
 - Kmeans <br>
 - Naive bayse <br>
 - GridSearchCV hyper parameter tuning <br>
-- Lasso Regression (Reguilrization)
+- Lasso Regression (Reguilrization) <br>
+- KNN K-Nearest Neighbour Classifier
