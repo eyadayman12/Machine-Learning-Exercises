@@ -12,3 +12,4 @@ Solve ML Exercises including this topics: <br><br>
 - GridSearchCV hyper parameter tuning <br>
 - Lasso Regression (Reguilrization) <br>
 - KNN K-Nearest Neighbour Classifier
+- Feature Engineering
