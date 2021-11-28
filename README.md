@@ -9,4 +9,5 @@ Solve ML Exercises including this topics: <br><br>
 - Kfold  <br>
 - Kmeans <br>
 - Naive bayse <br>
-- GridSearchCV hyper parameter tuning
+- GridSearchCV hyper parameter tuning <br>
+- Lasso Regression (Reguilrization)
